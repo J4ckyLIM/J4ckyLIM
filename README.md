@@ -5,6 +5,16 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=J4ckyLIM.J4ckyLIM)
+
+<br />
+
+- 🔭 I’m currently working at [Greenly](https://www.greenly.earth/)
+- 🌱 I’m currently learning about blockchain engineering
+- 💬 Ask me about blockchain, cryptocurrency or trading
+- 📫 How to reach me: ...
+- ⚡ Fun fact: Lemon should rule the world
+
+[Want to be part of Greenly's journey ?](https://www.welcometothejungle.com/en/companies/greenly) 
 <br />
 
 **Languages and tools:** 
@@ -18,7 +28,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This week i spent my time on:**
