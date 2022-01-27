@@ -16,7 +16,7 @@
 Want to be part of Greenly's journey ?
 <br />
 
-👉 [Click here](https://www.welcometothejungle.com/en/companies/greenly) 
+👉 [Click here](https://www.welcometothejungle.com/en/companies/greenly)👈
 <br />
 
 **Languages and tools:** 
