@@ -14,7 +14,9 @@
 - 🍋 Fun fact: 🍋 Lemon should rule the world 🍋
 
 Want to be part of Greenly's journey ?
-[Click here 👉](https://www.welcometothejungle.com/en/companies/greenly) 
+<br />
+
+👉 [Click here](https://www.welcometothejungle.com/en/companies/greenly) 
 <br />
 
 **Languages and tools:** 
