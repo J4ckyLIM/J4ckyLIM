@@ -8,12 +8,13 @@
 
 <br />
 
-- 💼 I’m currently working at [Greenly](https://www.greenly.earth/)
+- 💼 I’m currently working at [Greenly](https://www.greenly.earth/) 🌍
 - 🌱 I’m currently learning about blockchain engineering
 - 💬 Ask me about blockchain, cryptocurrency or trading
 - 🍋 Fun fact: 🍋 Lemon should rule the world 🍋
 
-Want to be part of Greenly's journey ? [Click here 👇](https://www.welcometothejungle.com/en/companies/greenly) 
+Want to be part of Greenly's journey ?
+[Click here 👉](https://www.welcometothejungle.com/en/companies/greenly) 
 <br />
 
 **Languages and tools:** 
