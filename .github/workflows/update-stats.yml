@@ -14,4 +14,5 @@ jobs:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BRANCH: main
           COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
