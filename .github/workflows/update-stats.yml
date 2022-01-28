@@ -14,4 +14,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
