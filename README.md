@@ -33,6 +33,7 @@ Want to be part of Greenly's journey ?
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
 ```text
 TypeScript   45 hrs 00 mins  ████████████████████▒░░░░   90.00 % 
 Rust         2 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
@@ -40,6 +41,7 @@ Solidity     1 hr 00 mins    █▒░░░░░░░░░░░░░░░
 Flutter      1 hr 00 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 SQL          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
+<!--END_SECTION:waka-->
 
 📈 My github stats
 
