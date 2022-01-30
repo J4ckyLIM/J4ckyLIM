@@ -39,7 +39,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/J4ckyLIM/J4ckyLIM/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 📈 My github stats
 
