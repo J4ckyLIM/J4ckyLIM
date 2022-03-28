@@ -36,12 +36,12 @@ Want to be part of Greenly's journey ?
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   41 hrs 25 mins  ████████████████████▓░░░░   83.09 %
-JavaScript   6 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Python       35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-CSS          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript   41 hrs 59 mins  ████████████████████░░░░░   80.53 %
+JavaScript   7 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+JSON         56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Python       35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Solidity     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
