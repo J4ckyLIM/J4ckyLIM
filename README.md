@@ -36,8 +36,8 @@ Want to be part of Greenly's journey ?
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   21 hrs 42 mins  ██████████████▓░░░░░░░░░░   58.48 %
-Other        11 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.72 %
+TypeScript   17 hrs 59 mins  █████████████▓░░░░░░░░░░░   54.31 %
+Other        11 hrs 1 min    ████████▒░░░░░░░░░░░░░░░░   33.25 %
 ```
 
 <!--END_SECTION:waka-->
