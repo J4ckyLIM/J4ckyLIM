@@ -36,7 +36,7 @@ Want to be part of Greenly's journey ?
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 48 mins   ███████████░░░░░░░░░░░░░░   44.37 %
+Other        2 hrs 32 mins   ███████████████████▓░░░░░   79.00 %
 ```
 
 <!--END_SECTION:waka-->
