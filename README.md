@@ -8,15 +8,15 @@
 
 <br />
 
-- 💼 I’m currently working at [Greenly](https://www.greenly.earth/) 🌍
+- 💼 I’m currently working at [Kenko](https://www.kenko.fr/) 🦎
 - 🌱 I’m currently learning about blockchain engineering
 - 💬 Ask me about blockchain, cryptocurrency or trading
 - 🍋 Fun fact: 🍋 Lemon should rule the world 🍋
 
-Want to be part of Greenly's journey ?
+Looking for a nice mutual insurance company ?
 <br />
 
-👉 [Click here](https://www.welcometothejungle.com/en/companies/greenly) 👈
+👉 [Click here](https://www.kenko.fr/) 👈
 <br />
 
 **Languages and tools:** 
