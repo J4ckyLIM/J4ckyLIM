@@ -36,11 +36,11 @@ Looking for a nice mutual insurance company ?
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   18 hrs 52 mins  █████████████████████▒░░░   85.66 %
-CSV          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Bash         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-YAML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+TypeScript   15 hrs 7 mins   ████████████████████▓░░░░   82.86 %
+CSV          1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Bash         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Markdown     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
